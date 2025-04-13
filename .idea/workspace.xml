@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ab43fa0-793c-47ea-83c0-9f6d851aefca" name="Changes" comment="" />
+    <list default="true" id="3ab43fa0-793c-47ea-83c0-9f6d851aefca" name="Changes" comment="First push." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +22,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -41,6 +42,19 @@
       <option name="presentableId" value="Default" />
       <updated>1744553088244</updated>
     </task>
+    <task id="LOCAL-00001" summary="First push.">
+      <option name="closed" value="true" />
+      <created>1744553255275</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744553255275</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First push." />
+    <option name="LAST_COMMIT_MESSAGE" value="First push." />
   </component>
 </project>
