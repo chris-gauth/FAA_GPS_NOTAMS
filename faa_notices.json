@@ -1,0 +1,51 @@
+[
+  {
+    "title": "FLIGHT ADVISORY GPS INTERFERENCE TESTING ROBINS AIR FORCE BASE (RAFBGA) 25-32",
+    "description": "FLIGHT ADVISORY GPS INTERFERENCE TESTING FLIGHT ADVISORY GPS INTERFERENCE TESTING ROBINS AIR FORCE BASE (RAFBGA) 25-32 22 – 29 April Robins Air Force Base, GA Centered at 323649N0833532W or the VNA348024 The entire flight advisory may be accessed and downloaded at the following address: https://www.faasafety.gov/files/notices/2025/Apr/RAFBGA_25-32_GPS_Flight_Advisory_.pdf Pilots are advised to check NOTAMs frequently for possible changes prior to operations in the area. NOTAMs will be published at least 24 hours in advance of any GPS tests.",
+    "latitude": "323649N",
+    "longitude": "0833532W",
+    "link": "http://www.faasafety.gov/SPANS/noticeView.aspx?nid=14363"
+  },
+  {
+    "title": "GPS FLIGHT ADVISORY - WHITE SANDS MISSILE RANGE, NM",
+    "description": "FLIGHT ADVISORY GPS INTERFERENCE TESTING WHITE SANDS MISSILE RANGE NEW MEXICO (WSMRNM) 25-08 (REVISION 1) 14 – 23 April White Sands Missile Range, NM Centered at 330908N1061916W or the TCS 086049 The entire flight advisory may be accessed and downloaded at the following address: https://www.faasafety.gov/files/notices/2025/Apr/WSMRNM_25-08_GPS_Flight_Advisory_Revision_1.pdf Pilots are advised to check NOTAMs frequently for possible changes prior to operations in the area. NOTAMs will be published at least 24 hours in advance of any GPS tests.",
+    "latitude": "330908N",
+    "longitude": "1061916W",
+    "link": "http://www.faasafety.gov/SPANS/noticeView.aspx?nid=14356"
+  },
+  {
+    "title": "Flight Advisory GPS Interference Testing - Yuma, AZ",
+    "description": "FLIGHT ADVISORY GPS INTERFERENCE TESTING YUMA PROVING GROUND ARIZONA (YPG_AZ) 25-06 14 April – 02 May Yuma, AZ The entire flight advisory may be accessed and downloaded at the following address: https://www.faasafety.gov/files/notices/2025/Apr/YPG_AZ_25-06_GPS_Flight_Advisory.pdf Pilots are advised to check NOTAMs frequently for possible changes prior to operations in the area. NOTAMs will be published at least 24 hours in advance of this event.",
+    "latitude": null,
+    "longitude": null,
+    "link": "http://www.faasafety.gov/SPANS/noticeView.aspx?nid=14355"
+  },
+  {
+    "title": "GPS FLIGHT ADVISORY - FORT JOHNSON, LA",
+    "description": "FLIGHT ADVISORY GPS INTERFERENCE TESTING FORT JOHNSON LOUISIANA (FTJNLA) 25-22 (Revision 2) 13 – 27 April Fort Johnson, LA Centered at 311155N0930619W or the AEX261031 The entire flight advisory may be accessed and downloaded at the following address: https://www.faasafety.gov/files/notices/2025/Apr/FTJNLA_25-22_GPS_Flight_Advisory_(Revision_2).pdf Pilots are advised to check NOTAMs frequently for possible changes prior to operations in the area. NOTAMs will be published at least 24 hours in advance of any GPS tests.",
+    "latitude": "311155N",
+    "longitude": "0930619W",
+    "link": "http://www.faasafety.gov/SPANS/noticeView.aspx?nid=14354"
+  },
+  {
+    "title": "FLIGHT ADVISORY - GPS Interference Testing – Yuma Proving Ground, AZ",
+    "description": "FLIGHT ADVISORY GPS INTERFERENCE TESTING YUMA PROVING GROUND ARIZONA (YPG_AZ) 25-01 (REVISION 1) 01 – 25 April Yuma Proving Ground, AZ Centered at 325500N1135500W the BZA061036 The entire flight advisory may be accessed and downloaded at the following address: https://www.faasafety.gov/files/notices/2025/Mar/YPG_AZ_25-01_GPS_Flight_Advisory_(Revision_1).pdf Pilots are advised to check NOTAMs frequently for possible changes prior to operations in the area. NOTAMs will be published at least 24 hours in advance of any GPS tests.",
+    "latitude": "325500N",
+    "longitude": "1135500W",
+    "link": "http://www.faasafety.gov/SPANS/noticeView.aspx?nid=14336"
+  },
+  {
+    "title": "FLIGHT ADVISORY - Dugway Proving Ground, UT",
+    "description": "FLIGHT ADVISORY GPS INTERFERENCE TESTING DUGWAY PROVING GROUND (DPG) 24-07 06 – 16  December Dugway Proving Ground, UT Centered at 401021N1131525W or the BVL133040 The entire flight advisory may be accessed and downloaded at the following address: https://www.faasafety.gov/files/notices/2024/Dec/DPG_24-07_GPS_Flight_Advisory.pdf Pilots are advised to check NOTAMs frequently for possible changes prior to operations in the area. NOTAMs will be published at least 24 hours in advance of any GPS tests.",
+    "latitude": "401021N",
+    "longitude": "1131525W",
+    "link": "http://www.faasafety.gov/SPANS/noticeView.aspx?nid=14186"
+  },
+  {
+    "title": "FLIGHT ADVISORY GPS INTERFERENCE TESTING",
+    "description": "FLIGHT ADVISORY GPS INTERFERENCE TESTING MARINE CORPS SPECIAL OPERATIONS COMMAND (MSOCNC) 24-05 06 – 10  December Camp Lejeune, NC Centered at 344025N0771959W or the EWN219028 The entire flight advisory may be accessed and downloaded at the following address: https://www.faasafety.gov/files/notices/2024/Dec/MSOCNC_24-05_GPS_Flight_Advisory.pdf Pilots are advised to check NOTAMs frequently for possible changes prior to operations in the area. NOTAMs will be published at least 24 hours in advance of any GPS tests.",
+    "latitude": "344025N",
+    "longitude": "0771959W",
+    "link": "http://www.faasafety.gov/SPANS/noticeView.aspx?nid=14184"
+  }
+]
