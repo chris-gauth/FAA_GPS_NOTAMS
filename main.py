@@ -4,6 +4,9 @@ import feedparser
 import re
 from bs4 import BeautifulSoup
 
+from GeoPlot import plot_faa_notices
+
+
 def clean_html(raw_html):
     return BeautifulSoup(raw_html, "html.parser").get_text(separator=" ", strip=True)
 
@@ -43,9 +46,9 @@ def fetch_faa_notices(feed_url, max_items=50):
         link = entry.get("link", "")
 
         if "GPS INTERFERENCE" in description.upper():
-            print(f"{title}")
-            print(f"{description}")
-            print(f"{link}")
+        #    print(f"{title}")
+        #    print(f"{description}")
+        #    print(f"{link}")
             matching_entries.append(entry)
 
     return matching_entries
@@ -55,3 +58,4 @@ if __name__ == "__main__":
     results = fetch_faa_notices(URL)
     if results:
         save_to_json(results)
+        plot_faa_notices()
